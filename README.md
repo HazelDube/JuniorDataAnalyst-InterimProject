@@ -40,6 +40,7 @@ Find the required information in the SQL database, pull into python, then create
 
 Find the required information in the SQL database, pull into python, then create a bar plot or scatter plot to compare annual sick leave amounts to job title.
 
+![Q4  Sick Leave vs Department Category](https://user-images.githubusercontent.com/36445846/198908167-195f5580-729f-4f40-b08e-ad90472c6d49.png)
 
 # Question 5 - What is the relationship between store trading duration and revenue?
 

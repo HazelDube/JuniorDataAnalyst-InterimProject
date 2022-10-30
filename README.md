@@ -22,12 +22,6 @@ First going to identify the best performing country, pull data about that countr
 
 ![Q1chart_1](https://user-images.githubusercontent.com/36445846/198904552-4e48abbb-ff77-46e0-b5ff-85fb55b4bbdb.png)
 
-      
-In order to find the best performing country, I used the pandas iloc function to select the first row and CountryCode column and stored the result on k_region variable
-Then I subset the dataframe column CountryCode with k_region variable to filter only the regions that belongs to the most performing country
-To start off the project, we are setting up a connection to my SQL Server instance and database. Here this is a Trusted Connection and does not require login details
-
-
 # Question 2 - What is the relationship between annul leave taken and bonus?
 
 Find the required information in the SQL database, pull into python, then create a scatter plot or bar plot to compare the annual leave and annual bonus amounts.

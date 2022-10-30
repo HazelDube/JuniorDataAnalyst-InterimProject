@@ -28,8 +28,32 @@ To start off the project, we are setting up a connection to my SQL Server instan
 
 # Question 2 - What is the relationship between annul leave taken and bonus?
 
+Find the required information in the SQL database, pull into python, then create a scatter plot or bar plot to compare the annual leave and annual bonus amounts.
 
 ![Q2regr](https://user-images.githubusercontent.com/36445846/198904347-00887cc5-602b-436f-9c9f-4798733b8c8b.png)
+
+
+
+# Question 3 - What is the relationship between Country and Revenue?
+
+Find the required information in the SQL database, pull into python, then create a bar plot to compare revenue amounts across various countries.
+
+
+
+# Question 4 - What is the relationship between sick leave and Job Title?
+
+Find the required information in the SQL database, pull into python, then create a bar plot or scatter plot to compare annual sick leave amounts to job title.
+
+
+# Question 5 - What is the relationship between store trading duration and revenue?
+
+Find the required information in the SQL database, pull into python, then create a scatter plot to compare store revenue against store trading duration.
+
+
+#Question 6 - What is the relationship between the size of the stores, number of employees and revenue?
+
+SQL database, pull the required information into python, then create either two scatter plots (store size vs revenue and number of employees vs revenue) or a single scatter plot with all three variables using colour to differentiate. 
+
 
 
 

@@ -18,6 +18,8 @@ The Adventure Works demo database serves as a great platform to practice SQL and
 
 # Question 1 - What are the regional sales in the best performing country?
 
+First going to identify the best performing country, pull data about that country from the SQL database, then create a bar plot to compare the sales across various regions.
+
 ![Q1chart_1](https://user-images.githubusercontent.com/36445846/198904552-4e48abbb-ff77-46e0-b5ff-85fb55b4bbdb.png)
 
       

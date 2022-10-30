@@ -1,8 +1,8 @@
-Data Analyst Program - Interim Project
+# Data Analyst Program - Interim Project
 
 The Adventure Works demo database serves as a great platform to practice SQL and data analytics skills. In this project, We are working as a team to answer a set of questions using the AdventureWorks dataset, a demo dataset maintained by Microsoft.
 
-Project Instructions and Deliverables
+# Project Instructions and Deliverables
 
 1.What are the regional sales in the best performing country?
 
@@ -16,8 +16,9 @@ Project Instructions and Deliverables
 
 6.What is the relationship between the size of the stores, number of employees and revenue?
 
-Question 1 - What are the regional sales in the best performing country?
+# Question 1 - What are the regional sales in the best performing country?
 
+![Q1chart_1](https://user-images.githubusercontent.com/36445846/198904552-4e48abbb-ff77-46e0-b5ff-85fb55b4bbdb.png)
 
       
 In order to find the best performing country, I used the pandas iloc function to select the first row and CountryCode column and stored the result on k_region variable

@@ -34,7 +34,7 @@ Find the required information in the SQL database, pull into python, then create
 
 Find the required information in the SQL database, pull into python, then create a bar plot to compare revenue amounts across various countries.
 
-
+![Q3-Piechart](https://user-images.githubusercontent.com/36445846/198908060-6e3e5ae2-e4f9-4bab-86b6-ad327694fed0.png)
 
 # Question 4 - What is the relationship between sick leave and Job Title?
 

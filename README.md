@@ -46,13 +46,15 @@ Find the required information in the SQL database, pull into python, then create
 
 Find the required information in the SQL database, pull into python, then create a scatter plot to compare store revenue against store trading duration.
 
+![Scatter_plot](https://user-images.githubusercontent.com/36445846/198908235-77916298-41c5-462a-aa16-333cd7c777f9.png)
 
-#Question 6 - What is the relationship between the size of the stores, number of employees and revenue?
+
+# Question 6 - What is the relationship between the size of the stores, number of employees and revenue?
 
 SQL database, pull the required information into python, then create either two scatter plots (store size vs revenue and number of employees vs revenue) or a single scatter plot with all three variables using colour to differentiate. 
 
 
-
+![Q6  Annual Revenue vs Store size](https://user-images.githubusercontent.com/36445846/198908302-75e7b226-afeb-4d60-b626-7c5c66c3ba1c.png)
 
 
 
@@ -62,10 +64,15 @@ Python is a widely-used, open-source programming language. It provides thousands
 
 For this project we extensively used:
 SQL: Structured Query Language, used to create, store, update, and access data stored in tabular relational databases. In this project we use SQL to retrieve relevant information from the AdventureWorks database.
+
 SQL Server Management Studio: Used to explore the structure of the AdventureWorks database, locate important information and construct SQL queries to extract it.
 Python: An open source general purpose programming language that we are using for data preparation, analysis and visualisation.
+
 Pyodbc: A python module that allows us to run SQL queries on a database from within python, pulling the data directly into a pandas DataFrame or other python object.
+
 Pandas: A Python module that allows us to easily work with tabular data loaded from various sources, including SQL. Once loaded we use pandas to prepare the data, examine the different rows and columns, calculate aggregate statistics and generate visuals. 
+
 Matplotlib: A Python module that defines and groups related tools to create a wide variety of kinds of charts. There are many visualisation packages in python, and matplotlib is the foundation that they are built upon.
+
 Seaborn: a Python data visualisation library built on top of matplotlib. It provides a high-level interface for quickly drawing attractive and informative statistical graphics.
 

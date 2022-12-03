@@ -22,7 +22,7 @@ First going to identify the best performing country, pull data about that countr
 
 ![Q1chart_1](https://user-images.githubusercontent.com/36445846/198904552-4e48abbb-ff77-46e0-b5ff-85fb55b4bbdb.png)
 
-# Question 2 - What is the relationship between annul leave taken and bonus?
+# Question 2 - What is the relationship between annual leave taken and bonus?
 
 Find the required information in the SQL database, pull into python, then create a scatter plot or bar plot to compare the annual leave and annual bonus amounts.
 Hypothesis: “Employees who take more leave hours get less bonus as they work less”
